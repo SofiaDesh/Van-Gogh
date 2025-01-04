@@ -1,0 +1,105 @@
+.flex {
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
+
+.list_reset {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_conteiner {
+    max-width: 1440px;
+    min-height: 1024px;
+    background-image: url(/Img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.header_block {
+    display: block;
+    margin: 0 auto;
+    max-width: 1440px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFDB60;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.header_content {
+    margin: 0 60px;
+    padding: 26px 0;
+}
+
+.header_list {
+    gap: 53px;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.link_about {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFDB60;
+}
+
+.header_link {
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.van_gogh {
+    font-size: 96px;
+    font-weight: 400;
+    color: #ffffff;
+    width: 553px;
+    margin: 0;
+    padding-top: 220px;
+    padding-bottom: 25px;
+}
+
+.Goghing_Gaga {
+    margin: 0;
+    font-weight: 300;
+    font-size: 30px;
+    color: #271908;
+    padding-bottom: 83px;
+}
+
+.button_1 {
+    padding: 24px 40px;
+    border-radius: 40px;
+    background-color: black;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.block_text {
+    align-items: center;
+    margin-left: 60px;
+}
+
+.block_1 {
+    margin-left: 105px;
+}
+
+.strelka_1 {
+    padding-top: 220px;
+}
+
+.strelka_2 {
+    padding-top: 220px;
+}
